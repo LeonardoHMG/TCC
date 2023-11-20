@@ -2,7 +2,7 @@
 
 Objetivo: 
 
-Auxiliar a gestão online de uma empresa farmacêutica, com controle de vendas, clientes, fornecedores e produtos.
+Projeto desenvolvido durante o Trabalho de Conclusão de Curso (TCC), com o objetivo de auxiliar na gestão online de uma empresa farmacêutica fictícia, com controle de vendas, clientes, fornecedores e produtos.
 
 Com a utilização desse sistema a farmácia exercerá todo o gerenciamento administrativo, pois terá em tempo real todas as informações necessárias para o processo de tomada de decisão por meio de telas de consultas e relatórios diversos.
 
